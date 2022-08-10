@@ -68,3 +68,9 @@ http://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup
 ![Screenshot (427)](https://user-images.githubusercontent.com/110418677/183794758-a79f052b-a7e4-4113-a491-8200e9404c05.png)
 
 
+Controlling the robot arm by Moveit and kinematics
+
+![Screenshot (438)](https://user-images.githubusercontent.com/110418677/183810600-2cfa17c9-1ee6-4500-8e1c-3b4f093e94f1.png)
+![Screenshot (439)](https://user-images.githubusercontent.com/110418677/183810638-2d6ed071-4e65-466c-9a03-e59f5583e503.png)
+![Screenshot (440)](https://user-images.githubusercontent.com/110418677/183810657-44ae4adf-d1a4-4a4c-9a16-84f92fb3769c.png)
+![Screenshot (441)](https://user-images.githubusercontent.com/110418677/183810675-60697247-2dae-40e1-aa38-2b19d4a11ec3.png)
