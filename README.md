@@ -32,11 +32,39 @@ install run $ sudo ./install.sh after unzipping the folder
 ![Screenshot (401)](https://user-images.githubusercontent.com/110418677/183788965-0b1a0ef2-8106-45a8-9469-5f7d9a5e6069.png)
 ![Screenshot (402)](https://user-images.githubusercontent.com/110418677/183789028-4677c00e-423c-45f4-a0fe-03e222b256bd.png)
 
--install rosserial
+-Install rosserial
 
 by this link:http://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup
 
+![Screenshot (406)](https://user-images.githubusercontent.com/110418677/183791239-9c26e46e-d198-436a-9c61-37bcb5da25a0.png)
+![Screenshot (407)](https://user-images.githubusercontent.com/110418677/183791321-ded72677-8790-4e28-9869-923afaced737.png)
+![Screenshot (408)](https://user-images.githubusercontent.com/110418677/183791352-2c8ddcd1-ab85-40b6-ad9e-926c58850571.png)
+![Screenshot (409)](https://user-images.githubusercontent.com/110418677/183791409-309a1f93-896a-4942-957f-e3d8e9db838b.png)
+![Screenshot (410)](https://user-images.githubusercontent.com/110418677/183791451-1fc135a0-6bdb-4a5b-97c1-67513fb499a4.png)
+![Screenshot (411)](https://user-images.githubusercontent.com/110418677/183791464-4966c0d1-8062-4fe2-b58e-2393709c436e.png)
+
+-Install ros_lib library on arduino
+
+http://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup
+
+![Screenshot (412)](https://user-images.githubusercontent.com/110418677/183793578-d511fbff-1e8f-4fb8-aca4-9059eb6f7470.png)
+![Screenshot (416)](https://user-images.githubusercontent.com/110418677/183793583-9b6b6a7a-ded1-4492-afcc-db171e09a7f7.png)
+![Screenshot (422)](https://user-images.githubusercontent.com/110418677/183793591-7a42060c-f677-4699-aacf-5cf90a46cfd0.png)
 
 
+-RViz
+
+![Screenshot (423)](https://user-images.githubusercontent.com/110418677/183794158-3b922fe2-a204-4601-ad40-5bb41e9496b9.png)
+![Screenshot (424)](https://user-images.githubusercontent.com/110418677/183794177-91e4ad54-5678-4b6d-8344-52c658e2789a.png)
+![Screenshot (425)](https://user-images.githubusercontent.com/110418677/183794182-09d83407-2f2d-4dbb-b3c0-c667dbc36348.png)
+
+-Gazebo
+
+![Screenshot (428)](https://user-images.githubusercontent.com/110418677/183794695-99077992-bb44-4af0-8412-63a497363200.png)
+![Screenshot (429)](https://user-images.githubusercontent.com/110418677/183794699-8474fa41-16a8-4bd2-834e-13b781984ee5.png)
+![Screenshot (430)](https://user-images.githubusercontent.com/110418677/183794704-44e9fd48-202d-47cb-8222-3c29dde018d3.png)
+![Screenshot (431)](https://user-images.githubusercontent.com/110418677/183794713-5f19037f-4abf-40e2-98a6-89d4cb4611f3.png)
+![Screenshot (432)](https://user-images.githubusercontent.com/110418677/183794717-42877cc6-3991-446f-b9b5-6abf32c55ca5.png)
+![Screenshot (427)](https://user-images.githubusercontent.com/110418677/183794758-a79f052b-a7e4-4113-a491-8200e9404c05.png)
 
 
